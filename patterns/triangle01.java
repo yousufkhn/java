@@ -12,5 +12,6 @@ public class triangle01 {
             }
             System.out.println();
         }
+        input.close();
     }
 }
